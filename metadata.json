@@ -1,0 +1,6 @@
+{
+  "name": "CalmRoute — Sensory-Friendly Metro Navigation",
+  "description": "Sensory-friendly metro navigation and wayfinding designed for calmer, step-free, and predictable transit journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
