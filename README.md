@@ -4,10 +4,11 @@
 
 ---
 
-## Figma Design & Interactive Prototype
+## Live Deployment & Figma Prototype Links
 
+- **Deployment Link**: [**CalmRoute Live Application (Vercel)**](https://ui-ux-assignment-seven.vercel.app/) — https://ui-ux-assignment-seven.vercel.app/
 - **Figma Prototype & Design File**: [**CalmRoute — Sensory-Friendly Metro Navigation (Figma)**](https://www.figma.com/design/qlrTo4EXa2jxTkgu6WlE9O/CalmRoute-%E2%80%94-Sensory-Friendly-Metro-Navigation?node-id=0-1&p=f&t=pszJuGJ57FxuV4sK-0)
-- **Direct URL**: https://www.figma.com/design/qlrTo4EXa2jxTkgu6WlE9O/CalmRoute-%E2%80%94-Sensory-Friendly-Metro-Navigation?node-id=0-1&p=f&t=pszJuGJ57FxuV4sK-0
+- **Direct Figma URL**: https://www.figma.com/design/qlrTo4EXa2jxTkgu6WlE9O/CalmRoute-%E2%80%94-Sensory-Friendly-Metro-Navigation?node-id=0-1&p=f&t=pszJuGJ57FxuV4sK-0
 
 ---
 
